@@ -9,7 +9,7 @@ import (
 	"io"
 	"log"
 
-	"xorm.io/core"
+	"github.com/ilisin/xorm/core"
 )
 
 // default log options

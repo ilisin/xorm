@@ -1,4 +1,4 @@
-module github.com/go-xorm/xorm
+module github.com/ilisin/xorm
 
 require (
 	github.com/cockroachdb/apd v1.1.0 // indirect
@@ -14,6 +14,7 @@ require (
 	github.com/shopspring/decimal v0.0.0-20180709203117-cd690d0c9e24 // indirect
 	github.com/stretchr/testify v1.3.0
 	github.com/ziutek/mymysql v1.5.4
+	golang.org/x/crypto v0.0.0-20190605123033-f99c8df09eb5 // indirect
+	google.golang.org/appengine v1.6.0 // indirect
 	xorm.io/builder v0.3.5
-	xorm.io/core v0.7.0
 )

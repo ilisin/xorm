@@ -12,7 +12,7 @@ import (
 	"time"
 
 	"xorm.io/builder"
-	"xorm.io/core"
+	"github.com/ilisin/xorm/core"
 )
 
 func (engine *Engine) buildConds(table *core.Table, bean interface{},

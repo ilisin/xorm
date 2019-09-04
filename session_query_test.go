@@ -11,7 +11,7 @@ import (
 	"time"
 
 	"xorm.io/builder"
-	"xorm.io/core"
+	"github.com/ilisin/xorm/core"
 
 	"github.com/stretchr/testify/assert"
 )

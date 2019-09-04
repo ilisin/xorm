@@ -11,7 +11,7 @@ import (
 	"regexp"
 	"strings"
 
-	"xorm.io/core"
+	"github.com/ilisin/xorm/core"
 )
 
 var (

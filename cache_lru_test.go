@@ -7,7 +7,7 @@ package xorm
 import (
 	"testing"
 
-	"xorm.io/core"
+	"github.com/ilisin/xorm/core"
 	"github.com/stretchr/testify/assert"
 )
 

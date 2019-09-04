@@ -10,7 +10,7 @@ import (
 	"reflect"
 
 	"xorm.io/builder"
-	"xorm.io/core"
+	"github.com/ilisin/xorm/core"
 )
 
 // Exist returns true if the record exist otherwise return false

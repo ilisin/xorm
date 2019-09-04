@@ -8,7 +8,7 @@ import (
 	"context"
 	"time"
 
-	"xorm.io/core"
+	"github.com/ilisin/xorm/core"
 )
 
 // EngineGroup defines an engine group

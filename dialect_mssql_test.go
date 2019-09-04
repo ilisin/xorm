@@ -8,7 +8,7 @@ import (
 	"reflect"
 	"testing"
 
-	"xorm.io/core"
+	"github.com/ilisin/xorm/core"
 )
 
 func TestParseMSSQL(t *testing.T) {

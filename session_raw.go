@@ -10,7 +10,7 @@ import (
 	"time"
 
 	"xorm.io/builder"
-	"xorm.io/core"
+	"github.com/ilisin/xorm/core"
 )
 
 func (session *Session) queryPreprocess(sqlStr *string, paramStr ...interface{}) {

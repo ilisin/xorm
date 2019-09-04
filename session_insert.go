@@ -13,7 +13,7 @@ import (
 	"strings"
 
 	"xorm.io/builder"
-	"xorm.io/core"
+	"github.com/ilisin/xorm/core"
 )
 
 // Insert insert one or more beans
