@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"xorm.io/builder"
+	"github.com/ilisin/xorm/builder"
 	"github.com/ilisin/xorm/core"
 )
 

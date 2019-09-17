@@ -16,5 +16,4 @@ require (
 	github.com/ziutek/mymysql v1.5.4
 	golang.org/x/crypto v0.0.0-20190605123033-f99c8df09eb5 // indirect
 	google.golang.org/appengine v1.6.0 // indirect
-	xorm.io/builder v0.3.5
 )

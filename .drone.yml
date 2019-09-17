@@ -34,7 +34,7 @@ steps:
   commands:
   - go get -t -d -v ./...
   - go get -u xorm.io/core
-  - go get -u xorm.io/builder
+  - go get -u github.com/ilisin/xorm/builder
   - go build -v
   when:
     event:
@@ -196,7 +196,7 @@ steps:
   commands:
     - go get -t -d -v ./...	
     - go get -u xorm.io/core	
-    - go get -u xorm.io/builder
+    - go get -u github.com/ilisin/xorm/builder
     - go build -v
   when:
     event:
@@ -392,7 +392,7 @@ steps:
   commands:
     - go get -t -d -v ./...	
     - go get -u xorm.io/core	
-    - go get -u xorm.io/builder
+    - go get -u github.com/ilisin/xorm/builder
     - go build -v
   when:
     event:
